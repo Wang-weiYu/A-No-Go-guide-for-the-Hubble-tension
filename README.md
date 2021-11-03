@@ -6,4 +6,4 @@ The code for https://arxiv.org/abs/2107.13286
 You can find pantheon data in [Pantheon](https://github.com/dscolnic/Pantheon)
 
 ## BAO
-You can one part of BAO data in [TomoPost-BAO](https://github.com/ytcosmo/TomoPost-BAO)
+You can find the BAO data from [The clustering of galaxies in the completed SDSS-III Baryon Oscillation Spectroscopic Survey: tomographic BAO analysis of DR12 combined sample in configuration space](https://arxiv.org/abs/1607.03154) by *Yuting Wang* et al. in [TomoPost-BAO](https://github.com/ytcosmo/TomoPost-BAO)
